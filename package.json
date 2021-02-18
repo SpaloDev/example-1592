@@ -1,0 +1,19 @@
+{
+  "name": "spalo_maker_api_google_drive_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download-image.js",
+  "dependencies": {
+    "adm-zip": "^0.5.1",
+    "axios": "^0.21.1",
+    "googleapis": "^66.0.0",
+    "mime-types": "^2.1.28"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

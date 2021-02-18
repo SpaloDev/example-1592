@@ -1,0 +1,10 @@
+{
+  "spaloAccount":{
+      "workspaceCode":"YOUR-workspaceCode",
+      "email":"YOUR-email",
+      "password":"YOUR-password"
+  },
+  "spaloApiBasePath":"https://developers-maker.spalo.jp/api/v2",
+  "googleDriveFolderId":"YOUR-googleDriveFolderId",
+  "localSaveDir":"files"
+}
